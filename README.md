@@ -22,6 +22,9 @@ pre-signed URLs.
 - AWS IAM (access control)
 - HTML, CSS, JavaScript
 
+## Architecture Diagram
+![CloudSafe Vault Architecture](docs/architecture.png)
+
 ## Current Status
 - Frontend UI created
 - Project hosted using GitHub Pages
