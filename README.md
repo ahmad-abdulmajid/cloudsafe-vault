@@ -24,7 +24,7 @@ emphasis on scalability, least-privilege access, and simplicity.
 ---
 
 ## Architecture Diagram
-![CloudSafe Vault Architecture](docs/Architecture.png)
+![CloudSafe Vault Architecture](Architecture.png)
 
 ---
 
